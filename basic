@@ -8,5 +8,5 @@ filetype off
 set backspace=2 "delete 
 let g:airline_theme='wombat'
 set laststatus=2
-
+map <F2> :NERDTreeToggle<CR>
 
