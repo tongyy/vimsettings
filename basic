@@ -1,0 +1,12 @@
+syntax on
+set nu
+set shiftwidth=4
+set tabstop=4
+set expandtab
+set nocompatible             
+filetype off                  
+set backspace=2 "delete 
+let g:airline_theme='wombat'
+set laststatus=2
+
+
