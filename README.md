@@ -14,7 +14,7 @@ sh install.sh
 :PluginInstall
 ```
 
-*Compile Command-T 
+* Compile Command-T 
 
 ```shell
 sh build.sh
