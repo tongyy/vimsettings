@@ -6,7 +6,8 @@ set nocompatible
 filetype off                  
 set backspace=2 "delete 
 let g:airline_theme='wombat'
-set laststatus=2
+set laststatus=2 "airline
+let g:jsx_ext_required = 0 "vim-jsx
 set nu
 
 function! NumberToggle()
