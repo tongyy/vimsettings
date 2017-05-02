@@ -7,9 +7,8 @@ filetype off
 set backspace=2 "delete 
 let g:airline_theme='wombat'
 set laststatus=2
-map <F2> :NERDTreeToggle<CR>
-nnoremap <C-n> :call NumberToggle()<cr>
 set nu
+
 function! NumberToggle()
     if(&nu == 1)
         set nu!
@@ -21,3 +20,4 @@ function! NumberToggle()
 endfunction
 
 nnoremap <C-n> :call NumberToggle()<CR>
+map <F2> :NERDTreeToggle<CR>
