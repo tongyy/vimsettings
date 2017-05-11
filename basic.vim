@@ -1,8 +1,6 @@
 syntax on
 set shiftwidth=4
 set tabstop=4
-set expandtab
-set noexpandtab    " Use tabs, not spaces
 set nocompatible             
 filetype off                  
 set backspace=2 "delete 
