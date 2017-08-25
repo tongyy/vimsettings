@@ -7,6 +7,7 @@ set backspace=2 "delete
 let g:airline_theme='wombat'
 set laststatus=2 "airline
 let g:jsx_ext_required = 0 "vim-jsx
+let g:jsx_pragma_required=1
 
 set statusline+=%#warningmsg# "syntastic
 set statusline+=%{SyntasticStatuslineFlag()}

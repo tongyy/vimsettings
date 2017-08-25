@@ -13,4 +13,5 @@ Plugin 'wincent/command-t'
 Plugin 'pangloss/vim-javascript'
 Plugin 'mxw/vim-jsx'
 Plugin 'vim-syntastic/syntastic'
+Plugin 'rking/ag.vim'
 call vundle#end()            " required
