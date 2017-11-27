@@ -19,3 +19,16 @@ sh install.sh
 ```shell
 sh build.sh
 ```
+
+## CMD
+<Ctrl + n> [relative line number :NumberToggle]
+
+<fn + F2> file explore :NERDTreeToggle
+
+<fn + F3> stop auto indenting :pastetoggle
+
+<fn + F4> replace two Spaces to Tab 
+
+\t [file name search]
+
+:Ag $seachtext  [global text-search AG]
